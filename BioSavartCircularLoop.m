@@ -1,4 +1,4 @@
-
+clc;
 clear all;
 help biotsav;  % Clear memory; print header
 %@ Initialize variables (e.g., Loop radius, current, graphics)
